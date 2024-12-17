@@ -10,8 +10,6 @@ My name is Charles Wyner, and I am currently in my 4th year at the Georgia Insti
 
 📫 How to reach me:
 
-phone: (404) 358-0808
-
 email: charliewyner@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/charles-wyner/
