@@ -6,7 +6,7 @@ My name is Charles Wyner, and I am currently in my 4th year at the Georgia Insti
 
 🌱 I'm currently learning more about front-end processes like web development.
 
-⚡ Fun fact: I’m also improving upon my Spanish skills. My Duolingo streak is at 100 days and counting!
+⚡ Fun fact: I’m also improving upon my Spanish skills. My Duolingo streak is at 140 days and counting!
 
 📫 How to reach me:
 
