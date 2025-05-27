@@ -6,7 +6,7 @@ My name is Charles Wyner, and I am currently in my 4th year at the Georgia Insti
 
 🌱 I'm currently learning more about front-end processes like web development.
 
-⚡ Fun fact: I’m watching all the MCU movies in timeline order right now. Current movie: Avengers Infinity War
+⚡ Fun fact: I’m watching all the MCU movies in timeline order right now. Current movie: Avengers Infinity War!
 
 📫 How to reach me:
 
