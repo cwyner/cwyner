@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-My name is Charles Wyner, and I am currently in my 4th year at the Georgia Institute of Technology studying Computer Science. My studies have taken me down the paths of Intelligence and Media, so my interests range from Machine Learning and Data Science to Computer Graphics and Video Game design!
+My name is Charles Wyner, and I recently graduated from Georgia Tech with my Bachelor's of Science in Computer Science. My studies have taken me down the paths of Intelligence and Media, so my interests range from Machine Learning and Data Science to Computer Graphics and Video Game design!
 
-🔭 I’m currently working on Upcycle Build, a full-stack mobile application that aims to streamline the donation process of construction scrap to reuse centers, effectively diverting waste from the waste stream.
+🔭 I’m currently working at Lead Out Software, helping integrate our lottery gaming systems with new clients to expand outreach!
 
 🌱 I'm currently learning more about front-end processes like web development.
-
-⚡ Fun fact: I’m watching all the MCU movies in timeline order right now. Current movie: Avengers Infinity War!
 
 📫 How to reach me:
 
