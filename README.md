@@ -4,7 +4,7 @@ My name is Charles Wyner, and I recently graduated from Georgia Tech with my Bac
 
 🔭 I’m currently working at Lead Out Software, helping integrate our lottery gaming systems with new clients to expand outreach!
 
-🌱 I'm currently learning more about front-end processes like web development.
+🌱 On the side, I'm working on a project that predicts the winner of any ATP (Professional Tennis) Tournament!
 
 📫 How to reach me:
 
