@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-My name is Charles Wyner, and I recently graduated from Georgia Tech with my Bachelor's of Science in Computer Science. My studies have taken me down the paths of Intelligence and Media, so my interests range from Machine Learning and Data Science to Computer Graphics and Video Game design!
+My name is Charles Wyner, and I recently graduated from Georgia Tech with my Bachelor's of Science in Computer Science.
 
-🔭 I’m currently working at Lead Out Software, helping integrate our lottery gaming systems with new clients to expand outreach!
+🔭 I’m currently working at Lead Out Software, helping integrate our lottery gaming systems with new clients to expand outreach.
 
-🌱 On the side, I'm working on a project that predicts the winner of any ATP (Professional Tennis) Tournament!
+🌱 On the side, I'm working on a machine learning model that uses player data (statistics and historical match data) to predict the winners of ATP (Professional Tennis) Tournaments!
 
 📫 How to reach me:
 
