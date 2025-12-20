@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Charles Wyner, and I recently graduated from Georgia Tech with my Bachelor's of Science in Computer Science.
+My name is Charles Wyner, and I graduated from Georgia Tech in the Spring of 2025 with a Bachelor's of Science in Computer Science.
 
 🔭 I’m currently working at Lead Out Software, helping integrate our lottery gaming systems with new clients to expand outreach.
 
