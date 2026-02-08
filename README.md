@@ -4,7 +4,7 @@ My name is Charles Wyner, and I graduated from Georgia Tech in the Spring of 202
 
 🔭 I’m currently working at Lead Out Software, helping integrate our lottery gaming systems with new clients to expand outreach.
 
-🌱 On the side, I'm working on a machine learning model that uses player data (statistics and historical match data) to predict the winners of ATP (Professional Tennis) Tournaments!
+🌱 On the side, I'm working on a machine learning model that uses player data (statistics and historical match data) to predict the winners of professional tennis tournaments!
 
 📫 How to reach me:
 
