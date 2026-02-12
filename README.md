@@ -2,7 +2,7 @@
 
 My name is Charles Wyner, and I graduated from Georgia Tech in the Spring of 2025 with a Bachelor's of Science in Computer Science.
 
-🔭 I’m currently working at Lead Out Software, helping integrate our lottery gaming systems with new clients to expand outreach.
+🔭 I’m currently a Software Engineer I at Lead Out Software, helping integrate our lottery gaming systems with new clients to expand outreach.
 
 🌱 On the side, I'm working on a machine learning model that uses player data (statistics and historical match data) to predict the winners of professional tennis tournaments!
 
