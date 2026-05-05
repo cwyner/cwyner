@@ -2,7 +2,7 @@
 
 My name is Charles Wyner, and I graduated from Georgia Tech in the Spring of 2025 with a Bachelor's of Science in Computer Science.
 
-🔭 I’m currently a Software Engineer I at Lead Out Software, helping integrate our lottery gaming systems with new clients to expand outreach.
+🔭 I’m currently a Software Engineer I at Lead Out Software helping to integrate Divvy Contracts, our contract execution platform, with Salesforce to expand customer offerings.
 
 🌱 On the side, I'm working on:
 
